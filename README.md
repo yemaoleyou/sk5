@@ -2,6 +2,8 @@
 微信：yemaoleyou 电报：@yemaoleyou
 
 步骤一
+
+
       wget --no-check-certificate https://raw.github.com//yemaoleyou/sk5/main/sk5.sh -O sk5.sh
       
       
