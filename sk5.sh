@@ -57,6 +57,6 @@ fi
     echo "#        支持系统:  CentOS 6+ / Debian 7+ / Ubuntu 12+        #"
     echo "#            ↓↓↓有偿远程协助请添加下方联系方式↓↓↓             #"
     echo "#                  野猫乐游微信：yemaoleyou                   #"
-    echo "#                  Teddysun电报:@yemaoleyou                   #"
+    echo "#                  Teddysun电报:@yemaoleyoushi                   #"
     echo "###############################################################"
 exit 0
